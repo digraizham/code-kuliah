@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Carrois+Gothic&family=Montserrat&family=Poppins&display=swap%27');
+
+/* 
+font-family: 'Red Rose', cursive;
+font-family: 'Saira Stencil One', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Carrois Gothic', sans-serif;
+font-family: 'Barlow', sans-serif; */
+
+.banneratas{
+    background-size: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('media/monas.jpg');
+    background-position: 0cm -4cm;
+    margin: -40px -60px;
+}
+.listbanner{
+    font-size: 12px;
+    color: white;
+    list-style: none;
+    display: inline-flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.Table-area{
+    background-color: #ffffff;
+}
+.Table-Tittle{
+    font-size: 30px;
+    margin: 30px;
+}
+#table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1100px; 
+}
+#tablerow-1{
+    color: #6d7882;
+    background-color: #F8F6FF;
+}
+#tablerow-2{
+    color: #6d7882;
+    background: #FFFFFF;
+}
+.tittlepresenter{
+    justify-content: center;
+}
+.bannerfoot{
+    color: aliceblue;
+    background-color: #031657; 
+    padding: 20px;
+    display: inline-flex;
+    justify-content: center;
+}
+.sentence1{
+    color: #1E276D;
+    justify-content: center;
+    margin: 80px 180px;
+    margin-bottom: -20px;
+    padding: 20px;
+    border: #D35DD5 2px solid;
+}
+.tabhead{
+    color: white;
+    background-color: #5E30DD;
+}
+.TableTittle{
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.baris3{
+    margin-top: 150px;
+    margin-left: 170px;
+    margin-right: 170px;
+    background-color: #631ECC;
+    padding: 10px;
+    border-radius: 7px 7px 7px 7px;
+}
+.info-kanan{
+    border: white 10px solid;
+    padding: 10px;
+    background-color: #FFE4DB;
+    border-radius: 30px;
+}
+.info-kiri{
+    border: white 10px solid;
+    padding: 10px;
+    background-color: #CFDEFF;
+    border-radius: 30px;
+}
+.conference-scope{
+    background-color: #C1C5CC
+}
+.listscope{
+    border: #C1C5CC 10px solid;
+    border-radius: 15%;
+}
+.keynote-speaker{
+    margin-top: 100px;
+}
+.orang{
+    border-radius: 50%;
+    margin: 20px;
+}
+.keynote-tittle{
+    color: #1E276D;
+    font-family: barlow;
+    font-size: 40px;
+    font-weight: 600;
+}
+.listspeaker{
+    border: #C1C5CC 10px solid;
+}
+.speaker-button{
+    border-radius: 7px;
+    background-color: #502EAE;
+    color: white;
+    padding: 5px 20px 5px 20px;
+    margin: 100px 0px 10px 0px;
+}
+.workshop-speaker{
+    background-color: #C6C5C9;
+}
+.list-wspeaker{
+    background-color: white;
+    border: #C6C5C9 30px solid;
+}
+.kotak4 {
+    background-color: #BDC7EA;
+    margin: 0 auto;
+    bottom: 0;
+}
+
+footer {
+    font-size: 13px;
+    padding: 15px;
+    background-color: #07062D;
+    color: white;
+    text-align: center;
+}

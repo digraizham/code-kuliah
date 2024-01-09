@@ -1,0 +1,2 @@
+Accuracy for 40 Data Train and 80 Data Test :
+0.525

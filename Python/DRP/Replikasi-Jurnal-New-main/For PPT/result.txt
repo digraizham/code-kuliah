@@ -1,0 +1,5 @@
+Positif : 266 
+Negatif : 28 
+
+Persentase Masyarakat bertanggapan positif: 86.5 % 
+Persentase Masyarakat bertanggapan negatif: 13.5 %

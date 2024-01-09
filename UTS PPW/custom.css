@@ -1,0 +1,20 @@
+.listbanner{
+    list-style: none;
+    display: inline-flex;
+    justify-content: space-around;
+    margin-right: 20px;
+}
+.tittlepresenter{
+    justify-content: center;
+}
+.bannerfoot{
+    background-color: darkblue; 
+    padding: 0px;
+    display: inline-flex;
+    justify-content: center;
+}
+.footer-mb-1{
+    justify-content: center;
+    display: inline;
+    border: 5px;
+}

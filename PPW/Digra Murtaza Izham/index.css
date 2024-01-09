@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: grey;
+    display : flex;
+    justify-content: space-between;
+}
+.img{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.List{
+    list-style: none;
+    display: inline-flex;
+    justify-content: space-evenly;
+    margin-right: 20px;
+}
+li{
+    margin: 10px;
+}
+.id{
+    margin-left: 40px;
+}
+.Text{
+    text-align: center;
+    margin: 30px;
+    font-size: 54px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.gabung{
+    text-align: center;
+    background-color: green;
+    padding : 10px;
+    border: 30px;
+    border-radius: 100px;
+}

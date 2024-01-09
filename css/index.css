@@ -1,0 +1,24 @@
+#header{
+    background-color: red;
+    height: 10%;
+    padding: 20px;
+}
+#sidebar{
+    float: left;
+    height: 400px;
+    width: 30%;
+    background-color: rgb(101, 9, 159);
+}
+
+#content{
+    float: right;
+    height: 400px;
+    width: 70%;
+    background-color: aqua;
+}
+
+#footer{
+    float: none;
+    background-color: rgb(174, 226, 43);
+
+}

@@ -1,0 +1,2 @@
+Accuracy for 60 Data Train and 60 Data Test :
+0.6

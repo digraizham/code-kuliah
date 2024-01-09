@@ -1,0 +1,1 @@
+snscrape --max-results 1000 --jsonl twitter-search "resesi 2023" >twitter.jsonl
